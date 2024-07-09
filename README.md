@@ -1,3 +1,3 @@
 # Web-Scraping
 
-Kariyer.net sitesinden İstanbul ilçelerinde hangi sektörden kaç tane ilan olduğunu gösterir.
+Kariyer.net sitesinden Web Scraping ile İstanbul ilçelerinde hangi sektörden kaç tane ilan olduğunu gösterir.
