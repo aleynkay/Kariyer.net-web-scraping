@@ -1,4 +1,5 @@
-# Web-Scraping
+# Kariyer.net
+
 
 Bu Python script'i, Kariyer.net web sitesinden İstanbul'un ilçelerine göre güncel iş ilanı sayılarını toplamak için geliştirilmiştir. BeautifulSoup kütüphanesi kullanılarak web scraping işlemi gerçekleştirilmiştir.
 
